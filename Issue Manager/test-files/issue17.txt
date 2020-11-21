@@ -1,0 +1,8 @@
+*6+Closed+Enhancement+Issue description+owner+false+WorksForMe
+-Note 1
+that goes on a new line
+-Note 2
+-Note 3
+-Note 4
+-Note 5
+-Note 6

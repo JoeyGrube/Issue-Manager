@@ -1,0 +1,24 @@
+*1+New+Enhancement+Issue description++false+
+-Note 1
+*2+Confirmed+Bug+Issue description++true+
+-Note 1
+-Note 2
+that goes on a new line
+*3+Working+Bug+Issue description+owner+true+
+-Note 1
+-Note 2
+-Note 3
+*4+Verifying+Enhancement+Issue description+owner+false+Fixed
+-Note 1
+-Note 2
+that goes on a new line
+-Note 3
+-Note 4
+*6+Closed+Enhancement+Issue description+owner+false+WontFix
+-Note 1
+that goes on a new line
+-Note 2
+-Note 3
+-Note 4
+-Note 5
+-Note 6

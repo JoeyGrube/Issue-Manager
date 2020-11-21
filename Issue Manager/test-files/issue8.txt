@@ -1,0 +1,4 @@
+*2+Confirmed+Bug+Issue description++true+Fixed
+-Note 1
+-Note 2
+that goes on a new line
